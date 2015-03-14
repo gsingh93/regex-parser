@@ -8,7 +8,7 @@ This is a recursive descent parser written in Rust for regular expresssions. Giv
 <term> ::= { <factor> }
 
 <factor> ::= <base> { '*' }
- 
+
 <base> ::= <char>
         |  '(' <regex> ')'
 ```

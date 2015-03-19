@@ -3,3 +3,6 @@
 name = "parse-regex"
 version = "0.0.1"
 authors = ["Gulshan Singh <gulshan@umich.edu>"]
+description = "A recursive descent parser for regular expressions"
+license = "MIT"
+repository = "https://github.com/gsingh93/regex-parser"
